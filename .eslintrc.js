@@ -2,8 +2,9 @@ module.exports = {
   root: true,
 
   parserOptions: {
-    parser: 'babel-eslint',
-    sourceType: 'module'
+    parser: '@typescript-eslint/parser',
+    sourceType: 'module'//,
+   // project:'./tsconfig.json'
   },
 
   env: {
@@ -22,6 +23,7 @@ module.exports = {
 
   // required to lint *.vue files
   plugins: [
+    '@typescript-eslint',
     'vue'
   ],
 
