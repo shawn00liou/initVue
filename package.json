@@ -8,6 +8,7 @@
   "author": "archer0liou <archer@yaudian.com>",
   "private": true,
   "scripts": {
+    "dev": "quasar dev -m ssr",
     "lint": "eslint --ext .js,.vue src",
     "test": "echo \"No test specified\" && exit 0"
   },
