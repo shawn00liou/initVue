@@ -83,10 +83,13 @@ module.exports = function (ctx) {
     // Full list of options: https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-devServer
     devServer: {
       https: false,
-      port: 8080,
+      port: 3001,
       open: true // opens browser window automatically
     },
-
+    env: {
+      APP_CDN_DOMAIN: JSON.stringify('https://sitepackage-mgt-rd.yaudian.net:5055/'),
+      APP_API_DOMAIN: JSON.stringify('https://sitepackage-mgt.yaudian.net:55566/')
+    },
     // animations: 'all', // --- includes all animations
     // https://quasar.dev/options/animations
     animations: [],
