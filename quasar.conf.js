@@ -8,6 +8,7 @@ module.exports = function (ctx) {
     // --> boot files are part of "main.js"
     // https://quasar.dev/quasar-cli/cli-documentation/boot-files
     boot: [
+      'app',
       'siteTest'
     ],
 
@@ -58,6 +59,10 @@ module.exports = function (ctx) {
     build: {
       vueRouterMode: 'hash', // available values: 'hash', 'history'
 
+      env: {
+        APP_CDN_DOMAIN: JSON.stringify('https://sitepackage-mgt-rd.yaudian.net:5055/'),
+        APP_API_DOMAIN: JSON.stringify('https://sitepackage-mgt.yaudian.net:55566/')
+      },
       // showProgress: false,
       // gzip: true,
       // analyze: true,
@@ -86,10 +91,7 @@ module.exports = function (ctx) {
       port: 3001,
       open: true // opens browser window automatically
     },
-    env: {
-      APP_CDN_DOMAIN: JSON.stringify('https://sitepackage-mgt-rd.yaudian.net:5055/'),
-      APP_API_DOMAIN: JSON.stringify('https://sitepackage-mgt.yaudian.net:55566/')
-    },
+
     // animations: 'all', // --- includes all animations
     // https://quasar.dev/options/animations
     animations: [],

@@ -4,11 +4,15 @@ console.log('Load store index');
 
 import Vue from 'vue'
 import Vuex from 'vuex'
-
+import AppModule from './app.modules';
+import { StoreType } from 'src/models/store.model'
 Vue.use(Vuex);
 
 export default function(){
-  const store = new Vuex.Store({
+  const store = new Vuex.Store<StoreType>({
+    modules:{
+      app:AppModule
+    }
 
   })
 

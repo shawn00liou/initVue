@@ -8,9 +8,9 @@
 export default {
   name: 'App'
 }
-const A:String = 'ssss'
-console.log(A)
-console.log('$$$$$$$$$$$$$')
-console.log('client-->', process.env.CLIENT)
-console.log('service-->', process.env.SERVER)
+// const A:String = 'ssss'
+// console.log(A)
+// console.log('$$$$$$$$$$$$$')
+// console.log('client-->', process.env.CLIENT)
+// console.log('service-->', process.env.SERVER)
 </script>
