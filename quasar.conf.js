@@ -9,6 +9,8 @@ module.exports = function (ctx) {
     // https://quasar.dev/quasar-cli/cli-documentation/boot-files
     boot: [
       'app',
+      'filter',
+      { path: 'fetchSiteConfig.server', client: false },
       'siteTest'
     ],
 

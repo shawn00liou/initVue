@@ -1,0 +1,428 @@
+{
+  "title": "商家甲",
+  "meta": {
+    "description": "description.description.description.description.description",
+    "keywords": "keywords.keywords.keywords.keywords.keywords"
+  },
+  "template": "adam",
+  "theme": {
+    "name": "default"
+  },
+  "logoUrl": "/statics/icons/favicon.ico",
+  "copyright": "© 2019 阿爾法娛樂版權所有 all rights reserved",
+  "contact": {
+    "QQCode": "QQQQQQ",
+    "email": "yaudian@gmail.com"
+  },
+  "data": {
+    "about": {
+      "about": {
+        "url": { "name": "AboutUs" },
+        "title": "关于我们",
+        "content": "<p>RG游戏网是菲律宾最具规模且成长最快的在线游戏网站之一，提供刺激好玩的电子竞技投注，棋牌，真人荷官，彩票游戏，现场二十一点游戏，现场百家乐，现场轮盘和骰宝游戏，以及超过两千多款的经典老虎机游戏。同时，我们提供比实体赌场更高的累积奖池，让您成为百万富翁不再是梦想！</p> <p>RG游戏网基于多年的行业经验，为您提供最真实的在线博彩感受。可以让会员坐在舒适的家中却仿佛身处在拉斯维加斯娱乐场内,享受贵宾般的服务。同时，我们的游戏软件提供商是世界网络游戏的先驱Playtech, 为您带来前所未有的在线游戏体验。</p> <p>安全公正 我们的软件由世界领先的游戏软件公司PlayTech提供，它保证了游戏本身的公正性，同时先进的加密措施保证了会员的游戏安全以及信息安全，为会员提供一个公正和安全的网络游戏环境。</p> <p>信息安全 所有会员提供的个人信息，其传送都将通过安全端口（SSL 128 bit encryption Standard）并存放在公众无法进入的保密环境之下。所有数据的内部出入都受到限制及严密的监控。</p> "
+      },
+      "licence": {
+        "url": { "name": "AboutLicence" },
+        "title": "博彩牌照",
+        "content": "<p>菲律宾RG游戏网的执照许可是由菲律宾博彩监督委员会所核发和监管，以提供网上投注服务。</p> <p>菲律宾RG游戏网 品牌是受 Philippine Amusement &amp; Gaming Corporation （简称PAGCOR）监督及管辖的。</p> <p>如欲查阅更多关于菲律宾政府博彩监督委员会的资讯，请进入它们的</p> <p>官方网站：<a href=\"http://www.pagcor.ph/regulatory/cegs.php\">http://www.pagcor.ph/regulatory/cegs.php</a></p>"
+      },
+      "duty": {
+        "url": { "name": "AboutDuty" },
+        "title": "博彩责任",
+        "content": "<p>所有未满18岁之人士（或在阁下居住的管辖范围内被视为未成年人士）进行博彩活动是属于非法的行为。任何未满18岁之人士不得在 本站开户和投注， 如果发现任何违背此规定的客户，将采取终止该投注账户操作的措施。</p> <h2 id=\"关于博彩\">关于博彩</h2> <p>博彩只不过是一种娱乐消遣的方式，切莫过于沉迷，导致对日常生活造成负面的影响。RG游戏绝对有责任让顾客在一个良好的环境 下获得最佳的娱乐体验，并希望顾客可以明确地调整自己的心态，避免因沉迷博彩而影响到自己的事业和家庭，甚至别人，例如亲人 的生活。</p> <h2 id=\"rg游戏提醒各位玩家：\">RG游戏提醒各位玩家：</h2> <p>RG游戏正在积极努力为玩家提供一个优质的娱乐平台。这些问题设置的目的在于，我们已经设置升级了多项安全设施来确保我们游 戏的公平公正。我们鼓励客户通过回答我们的问卷来了解客户对博彩的危害问题的状况：</p> <p>1、您会因为无聊或者不开心来进行赌博吗？</p> <p>2、您在注金投注完时，是否感觉钱已经丢掉或者说要尽快的再次下注？</p> <p>3、您会一直赌博直到您的钱都输完吗？</p> <p>4、您是否有说谎言借钱，甚至盗窃来进行博彩？</p> <p>5、您是否刻意隐瞒过您在博彩中花费的时间和资金吗？</p> <p>6、您是否不愿意花费您的赌金在其他方面呢？</p> <p>7、您是否已经对家人，朋友和爱好失去了兴趣？</p> <p>8、假如您的注金全部投注完，您是否会感到尽快赢回您输掉的资金？</p> <h2 id=\"如果您的大部分答案选择为是，您可能已经沉迷于赌博，我们建议您\">如果您的大部分答案选择为\"是\"，您可能已经沉迷于赌博，我们建议您:</h2> <p>把博彩当做一种娱乐休闲项目</p> <p>避免连续的损失</p> <p>对博彩有自己的认识</p> <p>合理安排自己在博彩中的时间和精力</p> <p>您也能往GamCare的网址 <a href=\"http://www.gamcare.org.uk\">www.gamcare.org.uk</a> 查寻更多关于赌博问题的解决以开导方式。</p> <h2 id=\"自我隔离：\">自我隔离：</h2> <p>对于一些客户希望暂时远离博彩，我们将提供一个自我排除的功能，您可以申请六个月到五年的账户关闭。请点击网页中的\"联系我们\" ，我们的客服人员会为您带来更多资讯。</p> <p>建议禁止您开设多重账号，匿名用户名，以及密码的滥用。</p> <h2 id=\"家长的监控：\">家长的监控：</h2> <p>有来自很多父母以及监护人要求对网络进行过滤，我们推荐以下网站：</p> <p>软件能保护孩子远离不适当网站：<a href=\"http://www.netnanny.com\">www.netnanny.com</a></p> <p>将允许父母设置隔离的网站：<a href=\"http://www.cybersitter.com\">www.cybersitter.com</a></p> "
+      },
+      "policy": {
+        "url": { "name": "AboutPolicy" },
+        "title": "隐私政策",
+        "content": "<h2 id=\"信息收集与使用\">信息收集与使用:</h2> <p>对于保存客户资料方面，RG游戏网一向采取最谨慎的态度及工作程序作处理。我们对客户所肩负起的责任与承诺。另外，也清晰说明了我们处理客户资料的方式。 当阁下使用RG游戏网时，表示您承认并接受RG隐私政策的规则与条件，并了解收集各项资料之目的及处理之方式。如果您不同意本隐私政策中的条款，请不要使用网站或将您的个人信息提供给我们。 所有用户提供的个人信息，其传送都将通过安全端口（SSL 128 bit encryption Standard）并存放在公众无法进入的保密环境之下。所有数据的内部出入都受到限制及严密的监控。</p> <h2 id=\"户口的交易状况\">户口的交易状况:</h2> <p>当客户在RG游戏网开设及使用帐户时，我们所收集的信息和数据包含姓名、位址、年龄、电邮、电话、IP地址等，而收集这些信息的目为：</p> <p>1.保留户口的交易纪录</p> <p>2.协助改善户口管理</p> <p>3.安全理由(包括客户的身份证明)</p> <p>4.建立客户档案</p> <p>5.管理客户关系</p> <p>6.在您同意的情况下，为您提供我们的优惠活动、产品和服务信息</p> <p>7.为防止欺诈、不规律投注、洗黑钱和欺骗等行为而对交易进行监管</p> <p>8.为鉴别客户的兴趣以提供相关优惠及资讯，或基于交易与业务运作等安全理由，我们会保留客户的交易纪录以作分析。</p> <h2 id=\"传送优惠资讯\">传送优惠资讯:</h2> <p>在注册帐号时，客户可选择是否希望收到优惠资讯。登记后，客户亦可随时透过电邮作出有关更改：(email)。请注意：当客户选择不希望收到优惠资讯时，我们会尽力地停止相关传送，并承诺于28天内完成这个步骤。</p> <h2 id=\"更改您的个人资料\">更改您的个人资料:</h2> <p>客户可随时更改个人资料。如有需要，可向我们的客户服务员联络。</p> <h2 id=\"个人资料的安全与准确性\">个人资料的安全与准确性:</h2> <p>我们承诺会妥善地保存客户的所有资料，并维护相关资料的准确性。根据法律，客户有权保留个人资料及要求更改任何错误。</p> <p>同时，我们更会采取所有步骤以确保客户资料在处理过程中，能达至最严格的安全标准。此外，客户资料只有在适用的法律之下方有机会被透露，而资料则主要透露给RG游戏网等有关部门、商业伙伴、顾问与供应商(如 信用卡处理机构)。我们承诺不会将客户的资料售卖给第三者。</p> <h2 id=\"电话\">电话:</h2> <p>i. 出于员工培训和安全原因，我们所有的客户往来电话均有录音，同时也可为您之前所受到的服务提供进一步 的协助。</p> <h2 id=\"小型文字档案cookies\">小型文字档案(Cookies):</h2> <p>i. 客户使用本网站后，我们出于以上目的可能使用cookies技术从服务器中收集客户信息。如果您在RG游戏网注册或者继续使用网站，则您将被视为同意我们使用Cookies。</p> <p>ii. Cookies包含转至您电脑硬盘上的信息。这将帮助我们完善网站，并提供更优质且人性化的服务。我们使用的某些Cookies对于网站的运行至关重要。</p> <p>iii. 如果您想删除任何已储存在您电脑上的Cookies，或想停止那些记录您浏览网站模式的Cookies，您可以删除您的现有Cookies和/或更改您浏览器上的隐私设置，以阻挡Cookies（此过程在各个浏览器间有所不同）。</p> <p>如果您想获知更多关于如何操作的信息，请访问<a href=\"http://www.allaboutcookies.org/\">http://www.allaboutcookies.org/</a> 。请注意，如果删除我们的Cookies或阻挡我们之后的Cookies，将导致您无法使用网站的某些区域或特色功能。</p> <h2 id=\"网站信息\">网站信息:</h2> <p>我们的系统会自动记录RG游戏网浏览者的网路IP地址，但我们决不会记录网站访问者的电邮地址，而此项主要是用作网站流量统计之用。</p> <h2 id=\"广告系统\">广告系统:</h2> <p>我们的广告系统会自动记录点击者的网路IP地址，此项主要令网站宣传功能有效发挥。</p> <h2 id=\"彩金\">彩金:</h2> <p>我们会严格保密客户所赢取的彩金数额。如根据当地的法律规定，要求客户必须要向当地的政府机构申报所赢取之彩金数额。那这个申报权益则会留给客户作决定。</p> <h2 id=\"安全性\">安全性:</h2> <p>RG游戏网为确保客户提供给我们的个人资讯及资料是绝对安全保密。所有传送给我们的相关内容，都必定经过高科技的保密设施后，然后储存进我们的伺服器内。这项保密设施，乃使用目前最先进的防火墙技术来维护。我们的娱乐 网站和软体更会采用最佳的保密程式，目的是保证玩家的个人资料不会被第三方使用。</p> "
+      },
+      "help": {
+        "url": { "name": "AboutHelp" },
+        "title": "帮助中心",
+        "content": "<h2 id=\"1如何注册\">1.如何注册</h2> <p>RG游戏网为玩家提供手机快捷登陆注册和邮箱快捷登陆注册，玩家通过手机号码或邮箱就可以快速注册并登录，无需多余步骤及信息，方便快捷。</p> <h2 id=\"2忘记密码怎么办？\">2.忘记密码怎么办？</h2> <p>RG游戏网提供手机号码快捷登陆注册与邮箱快捷登陆注册，用户在无法收取验证码的时候可通过客服人员免费电话给您协助找回您的账号密码。</p> <h2 id=\"3如何存款？\">3.如何存款？</h2> <p>在我们提供的多种便捷和安全的存款方式中，选择一种您喜欢的存款方式。</p> <p>1.网银支付:首先您需要开通网上银行，在\"用户中心\"处选择\"在线支付\"选项。选择在线支付,填写您所需入款的金额，点击提交后，即可连线到银行端进行存款操作,按照银行支付流程,进行在线充值,充值成功后,游戏账户中即可显示充值金额。</p> <p>2.快速支付:您可通过取款机/柜台/网银/电话转账等多种充值方式,汇款到本公司指定的收款账户内.汇款成功后,您可以点击手工存款自行提交汇款信息或者联系在线客服为您处理此笔充值业务.供手机号码快捷登陆注册与邮箱快捷登陆注册，用户在无法收取验证码的时候可通过客服人员免费电话给您协助找回您的账号密码。</p> <h2 id=\"4目前提供哪些银行存款？\">4.目前提供哪些银行存款？</h2> <p>目前统一提供中国内地多家银行人民币收款账户，详情您可向客服咨询</p> <h2 id=\"5款项充值后并未加入会员账号？\">5.款项充值后并未加入会员账号？</h2> <p>您存款成功后通知您的存款信息，我们都会即时为您添加至您的账户(在线支付是实时到账/转款到指定收款账户需要5-8分钟)，如因网路问题或是其他状况而延误，您可咨询24小时在线客服,或者点击首页免费电话联系客服获得帮助。</p> <h2 id=\"6游戏结束后-如何提款？\">6.游戏结束后 如何提款？</h2> <p>您可以通过以下两种方式进行取款：</p> <p>1.登录网站自助提交取款申请或委托客服为您提交取款申请（首次取款之前需要会员先登录账号完善银行资料)</p> <p>2.自助取款：先登录会员账号，点击”账户名称“按钮，进入“用户中心_提款”填写取款金额，点击提交即可，系统会提示：提交成功。工作人员会在2小时内为您审核支付</p> <h2 id=\"7单日最高取款限额及到账的时间\">7.单日最高取款限额及到账的时间?</h2> <p>单日最高取款限额为2000万RMB。</p> <p>每个账户每日取款次数不受限制，银行工作时间内，取款1000万内1小时到账，取款2000万内2小时内到账。</p> <p>温馨提示: 如果玩家愿意在澳门合作赌厅提现，单日此玩家的取款上限可升至800万RMB或其他等值货币。</p> "
+      }
+    },
+    "menuList": [
+      {
+        "label": "首页",
+        "href": "/",
+        "sort": 0
+      },
+      {
+        "label": "电竞投注",
+        "href": "/esport",
+        "sort": 1
+      },
+      {
+        "label": "体育竞技",
+        "href": "/sport",
+        "sort": 2
+      },
+      {
+        "label": "棋牌游戏",
+        "href": "/poker",
+        "sort": 3
+      },
+      {
+        "label": "电子艺游",
+        "href": "/slots",
+        "sort": 4
+      },
+      {
+        "label": "真人娱乐 ",
+        "href": "/live",
+        "sort": 6
+      },
+      {
+        "label": "彩票游戏",
+        "href": "/lottery",
+        "sort": 7
+      },
+      {
+        "label": "优惠活动",
+        "href": "/promotions",
+        "sort": 8
+      }
+    ],
+    "Home": {
+      "banners": [
+        {
+          "image": "/statics/adam/img/default/index/banner.png",
+          "href": "#"
+        },
+        {
+          "image": "/statics/adam/img/default/index/banner.png",
+          "href": "#"
+        }
+      ],
+      "esport": {
+        "list": [
+          {
+            "label": "RG",
+            "content": "投注界面柔美、信息简洁、操作简单\n让投注变得简单高效",
+            "image": "Common/WebsitePattern/30/ed7e3f89-279c-49c1-80da-fa6ad3160c91.png",
+            "href": "gm=4"
+          },
+          {
+            "label": "IM",
+            "content": "盘口丰富，超过50种特殊盘口\n让你享受独特的投注体验",
+            "image": "Common/WebsitePattern/30/ed7e3f89-279c-49c1-80da-fa6ad3160c91.png",
+            "href": "gm=4"
+          },
+          {
+            "label": "沙巴",
+            "content": "超炫酷投注界面，投注玩法多样\n亚洲最成熟投注平台",
+            "image": "Common/WebsitePattern/30/ed7e3f89-279c-49c1-80da-fa6ad3160c91.png",
+            "href": "gm=4"
+          },
+          {
+            "label": "BB",
+            "content": "欧洲牌照 热门最全电子竞技\n竞技赛事 应有尽有",
+            "image": "Common/WebsitePattern/30/ed7e3f89-279c-49c1-80da-fa6ad3160c91.png",
+            "href": "gm=4"
+          }
+        ]
+      },
+      "sport": {
+        "subtitle": "为您提供全网最全最热的体育投注平台，尽享热门赛事快速投注、极高赛事赔率，平台极速赔付，投注无忧。",
+        "list": [
+          {
+            "label": "RG",
+            "image": "/statics/adam/img/default/index/1-1.png",
+            "content": "多样化投注 超多赛事滚球<br/>超高赔率，赢到手软",
+            "href": "gm=4"
+          },
+          {
+            "label": "IM",
+            "image": "/statics/adam/img/default/index/2-2.png",
+            "content": "盘口多 赔付款 让投注更灵活<br/>数万赛事多种盘口，供您选择",
+            "href": "gm=4"
+          },
+          {
+            "label": "BC",
+            "image": "/statics/adam/img/default/index/3-3.png",
+            "content": "让球、大小、半全场、混合过关等丰富竞猜玩法<br/>边看比赛边投注",
+            "href": "gm=4"
+          },
+          {
+            "label": "沙巴",
+            "image": "/statics/adam/img/default/index/4-4.png",
+            "content": "香港盘 亚洲盘 虚拟运动 让您的投注盈利最大化<>多种盘口选择，总有一款适合您",
+            "href": "gm=4"
+          }
+        ]
+      },
+      "poker": {
+        "subtitle": "为您提供全网最全最热的体育投注平台，尽享热门赛事快速投注、极高赛事赔率，平台极速赔付，投注无忧。",
+        "list": [
+          {
+            "label": "RG",
+            "content": "真实、刺激的棋牌娱乐新潮流斗地主、炸金花棋牌游戏应有尽有",
+            "image": "/statics/adam/img/default/index/qipai1.png",
+            "href": ""
+          },
+          {
+            "label": "开元",
+            "content": "3D精美画面，为您代理最刺激的对战体验",
+            "image": "/statics/adam/img/default/index/qipai2.png",
+            "href": ""
+          },
+          {
+            "label": "壹柒游",
+            "content": "创新玩法，全新棋牌娱乐体验",
+            "image": "/statics/adam/img/default/index/qipai5.png",
+            "href": ""
+          },
+          {
+            "label": "BB",
+            "content": "最真实、刺激的棋牌游戏，尽享娱乐新潮流",
+            "image": "/statics/adam/img/default/index/qipai6.png",
+            "href": ""
+          }
+        ]
+      },
+      "live": {
+        "subtitle": "火辣美女荷官在线发牌，尽享极致博娱体验",
+        "list": [
+          {
+            "label": "BBIN",
+            "image": "/statics/adam/img/default/index/z1_light.png",
+            "content": "VIP包桌自主控制游戏节奏，尊贵高级娱乐服务",
+            "href": "#"
+          },
+          {
+            "label": "AG",
+            "image": "/statics/adam/img/default/index/z2_light.png",
+            "content": "欧洲美女荷官现场发牌、极致的博彩刺激体验",
+            "href": "#"
+          },
+          {
+            "label": "OG",
+            "image": "/statics/adam/img/default/index/z3_light.png",
+            "content": "亚洲多元真人百家乐游戏平台，界面简洁易投注",
+            "href": "#"
+          },
+          {
+            "label": "MG",
+            "image": "/statics/adam/img/default/index/z4_light.png",
+            "content": "玩法众多，极速百家乐，畅享顶级游戏体验",
+            "href": "#"
+          }
+        ]
+      },
+      "lottery": {
+        "list": [
+          {
+            "label": "RG",
+            "content": "彩种丰富，高额奖金组<br />极致投注体验，快捷投注模式",
+            "image": "/statics/adam/img/default/index/lottery-icon.png",
+            "href": "#"
+          },
+          {
+            "label": "IM",
+            "content": "双面盘 传统盘 投注方式多样<br />彩种丰富 玩法刺激",
+            "image": "/statics/adam/img/default/index/lottery-icon.png",
+            "href": "#"
+          },
+          {
+            "label": "IG",
+            "content": "传统彩票模式与刮刮乐彩票<br />尽兴刮卡尽享多重趣味",
+            "image": "/statics/adam/img/default/index/lottery-icon.png",
+            "href": "#"
+          },
+          {
+            "label": "VR",
+            "content": "新型视讯彩票，火辣美女主播时时互动<br />快周期开奖模式，投注到手软",
+            "image": "/statics/adam/img/default/index/lottery-icon.png",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    "ESport": {
+      "title": "电竞投注",
+      "meta": {
+        "description": "ESport",
+        "keywords": "ESport"
+      },
+      "subtitle": "E-SPORT-BET",
+      "bannerImage": "/statics/adam/img/default/esport/esport-banner.png",
+      "mainList": [
+        {
+          "title": "RG电竞",
+          "remark": "投注界面柔美、信息简洁、操作简单",
+          "image": "/statics/adam/img/default/esport/tu1.png",
+          "href": "/esport/RG"
+        },
+        {
+          "title": "IM电竞",
+          "remark": "超过50种特殊盘口让你享受独特的投注体验",
+          "image": "/statics/adam/img/default/esport/tu2.png",
+          "href": "/esport/IM"
+        },
+        {
+          "title": "沙巴电竞",
+          "remark": "超炫酷投注界面，投注玩法多样，亚洲最成熟投注平台",
+          "image": "/statics/adam/img/default/esport/tu3.png",
+          "href": "/esport/RG"
+        },
+        {
+          "title": "RB电竞",
+          "remark": "欧洲牌照 热门最全电子竞技赛事 应有尽有",
+          "image": "/statics/adam/img/default/esport/tu4.png",
+          "href": "/esport/IM"
+        }
+      ]
+    },
+    "Sport": {
+      "title": "体育竞技",
+      "meta": {
+        "description": "Sport description"
+      },
+      "subtitle": "SPORT-BET",
+      "bannerImage": "/statics/adam/img/default/sport/sport-banner.png",
+      "mainList": [
+        {
+          "title": "RG体育",
+          "remark": "多样化投注 超多赛事滚球",
+          "image": "/statics/adam/img/index/IM-sport.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "IM体育",
+          "remark": "盘口多 赔付款 让投注更灵活",
+          "image": "/statics/adam/img/index/BC-sport.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "BC体育",
+          "remark": "让球、大小、半全场、混合过关等丰富竞猜玩法",
+          "image": "/statics/adam/img/index/RG-sport.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "沙巴体育",
+          "remark": "香港盘 亚洲盘 虚拟运动 让您的投注盈利最大化",
+          "image": "/statics/adam/img/index/SB-sport.png",
+          "href": "gm=4"
+        }
+      ]
+    },
+    "Poker": {
+      "title": "棋牌游戏",
+      "subtitle": "POKER",
+      "bannerImage": "/statics/adam/img/index/card-post.png",
+      "image": "/statics/adam/img/index/card-girl.png",
+      "mainList": [
+        {
+          "title": "RG棋牌",
+          "remark": "真实、刺激的棋牌娱乐新潮流斗地主、炸金花棋牌游戏应有尽有",
+          "image": "/statics/adam/img/default/card/tui.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "开元棋牌",
+          "remark": "3D精美画面，为您代理最刺激的对战体验",
+          "image": "/statics/adam/img/default/card/tu2.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "壹柒游棋牌",
+          "remark": "创新玩法，全新棋牌娱乐体验",
+          "image": "/statics/adam/img/default/card/tu3.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "BB棋牌",
+          "remark": "创新玩法，全新棋牌娱乐体验",
+          "image": "/statics/adam/img/default/card/tu3.png",
+          "href": "gm=4"
+        }
+      ]
+    },
+    "Slots": {
+      "title": "电子艺游",
+      "subtitle": "SLOTS",
+      "bannerImage": "/statics/adam/img/slots-banner.png"
+    },
+    "Live": {
+      "title": "真人娱乐",
+      "subtitle": "LIVE-CASINO",
+      "bannerImage": "/statics/adam/img/index/real-person-back.png",
+      "image": "/statics/adam/img/index/real-person.png",
+      "mainList": [
+        {
+          "title": "AG 真人",
+          "remark": "欧洲美女荷官现场发牌、极致的博彩刺激体验",
+          "image": "/statics/adam/img/default/live/tu1_light.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "BBIN 真人",
+          "remark": "VIP包桌自主控制游戏节奏，尊贵高级娱乐服务",
+          "image": "/statics/adam/img/default/live/tu2_light.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "MG 真人",
+          "remark": "玩法众多，极速百家乐，畅享顶级游戏体验",
+          "image": "/statics/adam/img/default/live/tu3_light.png",
+          "href": "gm=4"
+        },
+        {
+          "title": "OG 真人",
+          "remark": "亚洲多元真人百家乐游戏平台，界面简洁易投注",
+          "image": "/statics/adam/img/default/live/tu4_light.png",
+          "href": "gm=4"
+        }
+      ]
+    },
+    "Lottery": {
+      "title": "彩票游戏",
+      "subtitle": "LOTTERY",
+      "bannerImage": "/statics/adam/img/index/lottery-back.png",
+      "image": "/statics/adam/img/index/lottery.png",
+      "mainList": [
+        {
+          "title": "RG 彩票",
+          "remark": "彩种丰富，高奖金组，快捷投注模式",
+          "image": "/statics/adam/img/default/lottery/1.png",
+          "href": ""
+        },
+        {
+          "title": "IM 彩票",
+          "remark": "双面盘 传统盘 彩种丰富 玩法多样",
+          "image": "/statics/adam/img/default/lottery/2.png",
+          "href": ""
+        },
+        {
+          "title": "IG 彩票",
+          "remark": "传统彩票模式与刮刮乐彩票，尽享多重趣味",
+          "image": "/statics/adam/img/default/lottery/3.png",
+          "href": ""
+        },
+        {
+          "title": "VR 彩票",
+          "remark": "新型视讯彩票，火辣美女主播时时互动，快周期开奖模式",
+          "image": "/statics/adam/img/default/lottery/4.png",
+          "href": ""
+        }
+      ]
+    },
+    "Promotions": {
+      "title": "優惠活動",
+      "bannerImage": "/statics/adam/img/default/event/promo-banner.png"
+    }
+  },
+  "lang": {
+    "en": {
+      "copyright": "© 2019 Alpha Entertainment all rights reserved",
+      "data": {
+        "ESport": {}
+      }
+    },
+    "zh-cn": {
+      "copyright": "© 2019 阿尔法娱乐版权所有 all rights reserved"
+    }
+  }
+}

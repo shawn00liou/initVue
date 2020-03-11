@@ -3,6 +3,8 @@ import VueRouter from 'vue-router'
 
 import routes from './routes'
 
+console.log('load router index')
+
 Vue.use(VueRouter)
 
 /*
