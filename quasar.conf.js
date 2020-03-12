@@ -1,5 +1,6 @@
 // Configuration for your app
 // https://quasar.dev/quasar-cli/quasar-conf-js
+const path = require('path')
 
 module.exports = function (ctx) {
   return {
@@ -84,6 +85,10 @@ module.exports = function (ctx) {
             formatter: require('eslint').CLIEngine.getFormatter('stylish')
           }
         })
+      },
+      chainWebpack (chain, { isServer, isClient }) {
+        chain.resolve.alias
+          .set('@template', path.resolve(__dirname, './src/components'))
       }
     },
 
