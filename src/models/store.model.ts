@@ -1,8 +1,8 @@
-import {AxiosInstance} from 'axios';
-import { Store } from 'vuex';
+import { AxiosInstance } from 'axios'
+import { Store } from 'vuex'
 
 export interface StoreType{
-  $api:AxiosInstance | null;
+  $api: AxiosInstance | null;
 }
 
-export type VuexStore = Store<StoreType> & {$api:AxiosInstance}
+export type VuexStore = Store<StoreType> & {$api: AxiosInstance}
