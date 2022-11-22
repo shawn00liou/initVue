@@ -22,7 +22,7 @@
     "vuex-module-decorators": "^0.16.1"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0",
+    "@quasar/app": "^3.3.3",
     "@typescript-eslint/eslint-plugin": "^2.23.0",
     "@typescript-eslint/parser": "^2.23.0",
     "axios-mock-adapter": "^1.17.0",
